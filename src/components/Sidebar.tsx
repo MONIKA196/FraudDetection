@@ -32,7 +32,7 @@ const Sidebar = () => {
             <Shield className="w-5 h-5 text-primary" />
           </div>
           <div>
-            <h1 className="font-bold text-foreground text-lg leading-none">ShieldChain</h1>
+            <h1 className="font-bold text-foreground text-lg leading-none">ChainGuard</h1>
             <p className="text-xs text-muted-foreground mt-0.5">Fraud Detection</p>
           </div>
         </div>
